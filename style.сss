@@ -1,0 +1,215 @@
+body {
+    font-family: sans-serif;
+    background-color: 5f5f5f;
+    height: 4000px;
+width: 1440px;
+left: -720px;
+top: -479px;
+border-radius: 0px;
+background-color: rgb(111, 255, 106);
+
+
+}
+
+header{
+    background-color: #00000050;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    margin: 10px 0px 10px 10px;
+    border-radius: 30px;
+}
+
+.name{
+    width: 408px;
+height: 123px;
+left: 257px;
+top: 2px;
+margin-left: 400px
+
+}
+
+header p{
+    position:  absolute;
+width: 760px;
+height: 75px;
+left: 719px;
+top: 30px;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 77px;
+
+color: #42FF00;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.start{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+
+.about{
+ 
+width: 1275px;
+height: 90px;
+left: 20px;
+top: 130px;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+
+}
+
+.pixart{
+
+width: 1000px;
+height: 580px;
+left: 140px;
+top: 235px;
+border-radius: 74px;
+
+}
+
+.pixp{
+    text-align: center;
+}
+
+.about1{
+
+width: 1275px;
+
+left: 20px;
+top: 850px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+}
+
+.demonaltar{
+    width: 460px;
+height: 320px;
+left: 20px;
+top: 1755px;
+margin-right: 510px;
+}
+
+.crimsonaltar{
+    width: 469px;
+height: 320px;
+left: 945px;
+top: 1755px;
+}
+
+.texta{
+    font-size: 36px;
+}
+
+.crimsonat{
+
+}
+
+.demonat{
+    padding-left:  50px;
+    padding-right: 640px;
+}
+
+.text2{
+    width: 1390px;
+height: 390px;
+left: 20px;
+top: 2260px;
+font-size: 36px;
+line-height: 42px;
+}
+
+.dv{
+    width: 385px;
+height: 450px;
+left: 15px;
+top: 2645px;
+margin-right: 220px;
+margin-left: 30px;
+background-color: white;
+border-radius: 10px;
+}
+
+.dung{width: 805px;
+height: 445px;
+left: 540px;
+top: 2650px;
+}
+
+.bees{
+    width: 625px;
+height: 490px;
+left: 325px;
+top: 3245px;
+}
+
+.dvt{
+    width: 360px;
+height: 45px;
+left: 83px;
+top: 3125px;
+font-size: 36px;
+padding-right: 400px;
+padding-left: 100px;
+}
+
+.dsk{
+    width: 320px;
+height: 50px;
+left: 820px;
+top: 3125px;
+font-size: 36px;
+}
+
+.bees1{
+    text-align: center;
+}
+
+.prehard{
+    width: 1394px;
+height: 210px;
+left: 20px;
+top: 3840px;
+font-size: 36px;
+}
+
+header p{
+    border: 3px double #42FF00;
+    border-radius: 10px;
+}
+
+main p{
+    border: 5px dashed cyan;
+    border-radius: 30px;
+    background-color: rgb(128, 179, 179);
+}
+
+footer p{
+    border: 10px inset rgb(255, 104, 129);
+     border-radius: 30px;
+     background-color: lightpink;
+}
+
+img{
+    border-radius: 30px;
+}
